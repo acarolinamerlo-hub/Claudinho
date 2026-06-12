@@ -1,0 +1,243 @@
+{
+  "fetchedAt": "2026-06-12T10:00:00+00:00",
+  "date": "2026-06-12",
+  "season": 2026,
+  "schedule": [
+    {
+      "gamePk": 778001,
+      "status": "Final",
+      "statusCode": "Final",
+      "startTime": "2026-06-12T00:10:00Z",
+      "inning": null,
+      "inningHalf": null,
+      "away": { "name": "New York Yankees", "abbreviation": "NYY", "score": 5, "isWinner": true },
+      "home": { "name": "Boston Red Sox", "abbreviation": "BOS", "score": 3, "isWinner": false }
+    },
+    {
+      "gamePk": 778002,
+      "status": "Final",
+      "statusCode": "Final",
+      "startTime": "2026-06-12T00:10:00Z",
+      "inning": null,
+      "inningHalf": null,
+      "away": { "name": "Chicago Cubs", "abbreviation": "CHC", "score": 2, "isWinner": false },
+      "home": { "name": "Los Angeles Dodgers", "abbreviation": "LAD", "score": 7, "isWinner": true }
+    },
+    {
+      "gamePk": 778003,
+      "status": "Final",
+      "statusCode": "Final",
+      "startTime": "2026-06-11T23:40:00Z",
+      "inning": null,
+      "inningHalf": null,
+      "away": { "name": "Atlanta Braves", "abbreviation": "ATL", "score": 4, "isWinner": true },
+      "home": { "name": "Philadelphia Phillies", "abbreviation": "PHI", "score": 1, "isWinner": false }
+    },
+    {
+      "gamePk": 778004,
+      "status": "In Progress",
+      "statusCode": "Live",
+      "startTime": "2026-06-12T17:10:00Z",
+      "inning": 6,
+      "inningHalf": "Top",
+      "away": { "name": "Houston Astros", "abbreviation": "HOU", "score": 3, "isWinner": false },
+      "home": { "name": "Texas Rangers", "abbreviation": "TEX", "score": 4, "isWinner": false }
+    },
+    {
+      "gamePk": 778005,
+      "status": "In Progress",
+      "statusCode": "Live",
+      "startTime": "2026-06-12T17:05:00Z",
+      "inning": 4,
+      "inningHalf": "Bot",
+      "away": { "name": "San Francisco Giants", "abbreviation": "SF", "score": 1, "isWinner": false },
+      "home": { "name": "San Diego Padres", "abbreviation": "SD", "score": 2, "isWinner": false }
+    },
+    {
+      "gamePk": 778006,
+      "status": "Scheduled",
+      "statusCode": "Preview",
+      "startTime": "2026-06-12T22:10:00Z",
+      "inning": null,
+      "inningHalf": null,
+      "away": { "name": "Toronto Blue Jays", "abbreviation": "TOR", "score": null, "isWinner": false },
+      "home": { "name": "Baltimore Orioles", "abbreviation": "BAL", "score": null, "isWinner": false }
+    },
+    {
+      "gamePk": 778007,
+      "status": "Scheduled",
+      "statusCode": "Preview",
+      "startTime": "2026-06-12T23:10:00Z",
+      "inning": null,
+      "inningHalf": null,
+      "away": { "name": "Minnesota Twins", "abbreviation": "MIN", "score": null, "isWinner": false },
+      "home": { "name": "Kansas City Royals", "abbreviation": "KC", "score": null, "isWinner": false }
+    },
+    {
+      "gamePk": 778008,
+      "status": "Scheduled",
+      "statusCode": "Preview",
+      "startTime": "2026-06-13T00:10:00Z",
+      "inning": null,
+      "inningHalf": null,
+      "away": { "name": "Seattle Mariners", "abbreviation": "SEA", "score": null, "isWinner": false },
+      "home": { "name": "Los Angeles Angels", "abbreviation": "LAA", "score": null, "isWinner": false }
+    }
+  ],
+  "standings": [
+    {
+      "id": 201,
+      "name": "AL East",
+      "league": "American League",
+      "leagueAbbrev": "AL",
+      "teams": [
+        { "rank": "1", "name": "Baltimore Orioles",   "abbreviation": "BAL", "wins": 42, "losses": 24, "pct": ".636", "gb": "-",   "streak": "W3" },
+        { "rank": "2", "name": "New York Yankees",    "abbreviation": "NYY", "wins": 39, "losses": 27, "pct": ".591", "gb": "3.0", "streak": "W1" },
+        { "rank": "3", "name": "Toronto Blue Jays",   "abbreviation": "TOR", "wins": 34, "losses": 32, "pct": ".515", "gb": "8.0", "streak": "L2" },
+        { "rank": "4", "name": "Boston Red Sox",      "abbreviation": "BOS", "wins": 30, "losses": 36, "pct": ".455", "gb": "12.0","streak": "L1" },
+        { "rank": "5", "name": "Tampa Bay Rays",      "abbreviation": "TB",  "wins": 27, "losses": 39, "pct": ".409", "gb": "15.0","streak": "L4" }
+      ]
+    },
+    {
+      "id": 202,
+      "name": "AL Central",
+      "league": "American League",
+      "leagueAbbrev": "AL",
+      "teams": [
+        { "rank": "1", "name": "Kansas City Royals",  "abbreviation": "KC",  "wins": 38, "losses": 28, "pct": ".576", "gb": "-",   "streak": "W2" },
+        { "rank": "2", "name": "Cleveland Guardians", "abbreviation": "CLE", "wins": 36, "losses": 30, "pct": ".545", "gb": "2.0", "streak": "W1" },
+        { "rank": "3", "name": "Minnesota Twins",     "abbreviation": "MIN", "wins": 32, "losses": 34, "pct": ".485", "gb": "6.0", "streak": "L1" },
+        { "rank": "4", "name": "Detroit Tigers",      "abbreviation": "DET", "wins": 29, "losses": 37, "pct": ".439", "gb": "9.0", "streak": "W1" },
+        { "rank": "5", "name": "Chicago White Sox",   "abbreviation": "CWS", "wins": 20, "losses": 46, "pct": ".303", "gb": "18.0","streak": "L6" }
+      ]
+    },
+    {
+      "id": 200,
+      "name": "AL West",
+      "league": "American League",
+      "leagueAbbrev": "AL",
+      "teams": [
+        { "rank": "1", "name": "Houston Astros",      "abbreviation": "HOU", "wins": 40, "losses": 26, "pct": ".606", "gb": "-",   "streak": "W4" },
+        { "rank": "2", "name": "Texas Rangers",       "abbreviation": "TEX", "wins": 37, "losses": 29, "pct": ".561", "gb": "3.0", "streak": "W1" },
+        { "rank": "3", "name": "Seattle Mariners",    "abbreviation": "SEA", "wins": 35, "losses": 31, "pct": ".530", "gb": "5.0", "streak": "W2" },
+        { "rank": "4", "name": "Los Angeles Angels",  "abbreviation": "LAA", "wins": 28, "losses": 38, "pct": ".424", "gb": "12.0","streak": "L3" },
+        { "rank": "5", "name": "Oakland Athletics",   "abbreviation": "OAK", "wins": 22, "losses": 44, "pct": ".333", "gb": "18.0","streak": "L2" }
+      ]
+    },
+    {
+      "id": 205,
+      "name": "NL East",
+      "league": "National League",
+      "leagueAbbrev": "NL",
+      "teams": [
+        { "rank": "1", "name": "Atlanta Braves",        "abbreviation": "ATL", "wins": 44, "losses": 22, "pct": ".667", "gb": "-",   "streak": "W5" },
+        { "rank": "2", "name": "Philadelphia Phillies", "abbreviation": "PHI", "wins": 40, "losses": 26, "pct": ".606", "gb": "4.0", "streak": "L1" },
+        { "rank": "3", "name": "New York Mets",         "abbreviation": "NYM", "wins": 35, "losses": 31, "pct": ".530", "gb": "9.0", "streak": "W1" },
+        { "rank": "4", "name": "Miami Marlins",         "abbreviation": "MIA", "wins": 24, "losses": 42, "pct": ".364", "gb": "20.0","streak": "L2" },
+        { "rank": "5", "name": "Washington Nationals",  "abbreviation": "WSH", "wins": 22, "losses": 44, "pct": ".333", "gb": "22.0","streak": "L3" }
+      ]
+    },
+    {
+      "id": 206,
+      "name": "NL Central",
+      "league": "National League",
+      "leagueAbbrev": "NL",
+      "teams": [
+        { "rank": "1", "name": "Milwaukee Brewers",     "abbreviation": "MIL", "wins": 38, "losses": 28, "pct": ".576", "gb": "-",   "streak": "W1" },
+        { "rank": "2", "name": "Chicago Cubs",          "abbreviation": "CHC", "wins": 35, "losses": 31, "pct": ".530", "gb": "3.0", "streak": "L1" },
+        { "rank": "3", "name": "St. Louis Cardinals",   "abbreviation": "STL", "wins": 33, "losses": 33, "pct": ".500", "gb": "5.0", "streak": "W2" },
+        { "rank": "4", "name": "Pittsburgh Pirates",    "abbreviation": "PIT", "wins": 28, "losses": 38, "pct": ".424", "gb": "10.0","streak": "L1" },
+        { "rank": "5", "name": "Cincinnati Reds",       "abbreviation": "CIN", "wins": 26, "losses": 40, "pct": ".394", "gb": "12.0","streak": "W1" }
+      ]
+    },
+    {
+      "id": 203,
+      "name": "NL West",
+      "league": "National League",
+      "leagueAbbrev": "NL",
+      "teams": [
+        { "rank": "1", "name": "Los Angeles Dodgers",   "abbreviation": "LAD", "wins": 46, "losses": 20, "pct": ".697", "gb": "-",   "streak": "W3" },
+        { "rank": "2", "name": "San Diego Padres",      "abbreviation": "SD",  "wins": 38, "losses": 28, "pct": ".576", "gb": "8.0", "streak": "W1" },
+        { "rank": "3", "name": "San Francisco Giants",  "abbreviation": "SF",  "wins": 33, "losses": 33, "pct": ".500", "gb": "13.0","streak": "L1" },
+        { "rank": "4", "name": "Arizona Diamondbacks",  "abbreviation": "ARI", "wins": 30, "losses": 36, "pct": ".455", "gb": "16.0","streak": "W1" },
+        { "rank": "5", "name": "Colorado Rockies",      "abbreviation": "COL", "wins": 19, "losses": 47, "pct": ".288", "gb": "27.0","streak": "L5" }
+      ]
+    }
+  ],
+  "leaders": {
+    "batting": {
+      "homeRuns": [
+        { "rank": 1, "name": "Aaron Judge",       "team": "NYY", "value": "22" },
+        { "rank": 2, "name": "Shohei Ohtani",     "team": "LAD", "value": "21" },
+        { "rank": 3, "name": "Pete Alonso",       "team": "NYM", "value": "19" },
+        { "rank": 4, "name": "Yordan Alvarez",    "team": "HOU", "value": "18" },
+        { "rank": 5, "name": "Gunnar Henderson",  "team": "BAL", "value": "17" }
+      ],
+      "battingAverage": [
+        { "rank": 1, "name": "Luis Arraez",       "team": "SD",  "value": ".358" },
+        { "rank": 2, "name": "Freddie Freeman",   "team": "LAD", "value": ".331" },
+        { "rank": 3, "name": "Steven Kwan",       "team": "CLE", "value": ".326" },
+        { "rank": 4, "name": "Jose Abreu",        "team": "HOU", "value": ".319" },
+        { "rank": 5, "name": "Rafael Devers",     "team": "BOS", "value": ".314" }
+      ],
+      "rbi": [
+        { "rank": 1, "name": "Yordan Alvarez",    "team": "HOU", "value": "68" },
+        { "rank": 2, "name": "Shohei Ohtani",     "team": "LAD", "value": "65" },
+        { "rank": 3, "name": "Aaron Judge",       "team": "NYY", "value": "62" },
+        { "rank": 4, "name": "Matt Olson",        "team": "ATL", "value": "58" },
+        { "rank": 5, "name": "Ronald Acuna Jr.",  "team": "ATL", "value": "55" }
+      ],
+      "stolenBases": [
+        { "rank": 1, "name": "Bobby Witt Jr.",    "team": "KC",  "value": "28" },
+        { "rank": 2, "name": "Ronald Acuna Jr.",  "team": "ATL", "value": "24" },
+        { "rank": 3, "name": "Elly De La Cruz",   "team": "CIN", "value": "22" },
+        { "rank": 4, "name": "Jose Caballero",    "team": "SEA", "value": "20" },
+        { "rank": 5, "name": "Jarren Duran",      "team": "BOS", "value": "19" }
+      ],
+      "onBasePlusSlugging": [
+        { "rank": 1, "name": "Shohei Ohtani",     "team": "LAD", "value": "1.052" },
+        { "rank": 2, "name": "Aaron Judge",       "team": "NYY", "value": "1.021" },
+        { "rank": 3, "name": "Yordan Alvarez",    "team": "HOU", "value": ".988" },
+        { "rank": 4, "name": "Freddie Freeman",   "team": "LAD", "value": ".964" },
+        { "rank": 5, "name": "Luis Arraez",       "team": "SD",  "value": ".921" }
+      ]
+    },
+    "pitching": {
+      "earnedRunAverage": [
+        { "rank": 1, "name": "Zack Wheeler",        "team": "PHI", "value": "1.98" },
+        { "rank": 2, "name": "Gerrit Cole",         "team": "NYY", "value": "2.14" },
+        { "rank": 3, "name": "Spencer Strider",     "team": "ATL", "value": "2.31" },
+        { "rank": 4, "name": "Logan Gilbert",       "team": "SEA", "value": "2.54" },
+        { "rank": 5, "name": "Yoshinobu Yamamoto",  "team": "LAD", "value": "2.67" }
+      ],
+      "wins": [
+        { "rank": 1, "name": "Zack Wheeler",        "team": "PHI", "value": "10" },
+        { "rank": 2, "name": "Spencer Strider",     "team": "ATL", "value": "9" },
+        { "rank": 3, "name": "Gerrit Cole",         "team": "NYY", "value": "9" },
+        { "rank": 4, "name": "Pablo Lopez",         "team": "MIN", "value": "8" },
+        { "rank": 5, "name": "Framber Valdez",      "team": "HOU", "value": "8" }
+      ],
+      "strikeouts": [
+        { "rank": 1, "name": "Spencer Strider",     "team": "ATL", "value": "122" },
+        { "rank": 2, "name": "Gerrit Cole",         "team": "NYY", "value": "114" },
+        { "rank": 3, "name": "Zack Wheeler",        "team": "PHI", "value": "108" },
+        { "rank": 4, "name": "Logan Gilbert",       "team": "SEA", "value": "101" },
+        { "rank": 5, "name": "Shohei Ohtani",       "team": "LAD", "value": "98" }
+      ],
+      "saves": [
+        { "rank": 1, "name": "Josh Hader",          "team": "HOU", "value": "20" },
+        { "rank": 2, "name": "Emmanuel Clase",      "team": "CLE", "value": "19" },
+        { "rank": 3, "name": "Felix Bautista",      "team": "BAL", "value": "17" },
+        { "rank": 4, "name": "Ryan Helsley",        "team": "STL", "value": "16" },
+        { "rank": 5, "name": "Alexis Diaz",         "team": "CIN", "value": "15" }
+      ],
+      "whip": [
+        { "rank": 1, "name": "Zack Wheeler",        "team": "PHI", "value": "0.88" },
+        { "rank": 2, "name": "Yoshinobu Yamamoto",  "team": "LAD", "value": "0.92" },
+        { "rank": 3, "name": "Gerrit Cole",         "team": "NYY", "value": "0.95" },
+        { "rank": 4, "name": "Spencer Strider",     "team": "ATL", "value": "0.98" },
+        { "rank": 5, "name": "Logan Gilbert",       "team": "SEA", "value": "1.02" }
+      ]
+    }
+  }
+}

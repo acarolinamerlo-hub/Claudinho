@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MLB Daily Dashboard</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="logo">
+        <span class="logo-badge">MLB</span>
+        <div>
+          <h1>Daily Dashboard</h1>
+          <p id="header-date">Carregando...</p>
+        </div>
+      </div>
+      <div id="fetch-time" class="fetch-time"></div>
+    </div>
+  </header>
+
+  <main class="container">
+    <!-- Games -->
+    <section class="section">
+      <h2 class="section-title">Jogos de Hoje</h2>
+      <div id="games-grid" class="games-grid">
+        <div class="skeleton-cards"></div>
+      </div>
+    </section>
+
+    <!-- Standings -->
+    <section class="section">
+      <h2 class="section-title">Classificação</h2>
+      <div class="standings-tabs">
+        <button class="tab-btn active" data-league="AL">Liga Americana</button>
+        <button class="tab-btn" data-league="NL">Liga Nacional</button>
+      </div>
+      <div id="standings-container" class="standings-grid"></div>
+    </section>
+
+    <!-- Leaders -->
+    <section class="section">
+      <h2 class="section-title">Líderes Estatísticos</h2>
+      <div class="leaders-tabs">
+        <button class="tab-btn active" data-stat="batting">Rebatida</button>
+        <button class="tab-btn" data-stat="pitching">Arremesso</button>
+      </div>
+      <div id="leaders-container" class="leaders-grid"></div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>Dados fornecidos pela <a href="https://statsapi.mlb.com" target="_blank" rel="noopener">MLB Stats API</a>. Atualizado diariamente via GitHub Actions.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
