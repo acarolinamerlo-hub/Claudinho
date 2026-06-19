@@ -1,118 +1,58 @@
 {
-  "fetchedAt": "2026-06-18T18:39:09.369906+00:00",
-  "date": "2026-06-18",
+  "fetchedAt": "2026-06-19T17:31:11.212645+00:00",
+  "date": "2026-06-19",
   "season": 2026,
   "schedule": [
     {
-      "gamePk": 824748,
-      "status": "In Progress",
-      "statusCode": "Live",
-      "startTime": "2026-06-18T17:35:00Z",
-      "inning": 5,
+      "gamePk": 824663,
+      "status": "Pre-Game",
+      "statusCode": "Preview",
+      "startTime": "2026-06-19T18:20:00Z",
+      "inning": 1,
       "inningHalf": "Top",
       "away": {
         "name": "Toronto Blue Jays",
         "abbreviation": "TOR",
-        "score": 2,
+        "score": 0,
         "isWinner": false
       },
       "home": {
-        "name": "Boston Red Sox",
-        "abbreviation": "BOS",
+        "name": "Chicago Cubs",
+        "abbreviation": "CHC",
         "score": 0,
         "isWinner": false
       }
     },
     {
-      "gamePk": 823772,
-      "status": "In Progress",
-      "statusCode": "Live",
-      "startTime": "2026-06-18T18:10:00Z",
-      "inning": 2,
-      "inningHalf": "Bottom",
-      "away": {
-        "name": "Cleveland Guardians",
-        "abbreviation": "CLE",
-        "score": 0,
-        "isWinner": false
-      },
-      "home": {
-        "name": "Milwaukee Brewers",
-        "abbreviation": "MIL",
-        "score": 1,
-        "isWinner": false
-      }
-    },
-    {
-      "gamePk": 822889,
-      "status": "In Progress",
-      "statusCode": "Live",
-      "startTime": "2026-06-18T18:35:00Z",
-      "inning": 1,
-      "inningHalf": "Top",
-      "away": {
-        "name": "Minnesota Twins",
-        "abbreviation": "MIN",
-        "score": 0,
-        "isWinner": false
-      },
-      "home": {
-        "name": "Texas Rangers",
-        "abbreviation": "TEX",
-        "score": 0,
-        "isWinner": false
-      }
-    },
-    {
-      "gamePk": 823125,
-      "status": "Pre-Game",
-      "statusCode": "Preview",
-      "startTime": "2026-06-18T20:10:00Z",
-      "inning": 1,
-      "inningHalf": "Top",
-      "away": {
-        "name": "Baltimore Orioles",
-        "abbreviation": "BAL",
-        "score": 0,
-        "isWinner": false
-      },
-      "home": {
-        "name": "Seattle Mariners",
-        "abbreviation": "SEA",
-        "score": 0,
-        "isWinner": false
-      }
-    },
-    {
-      "gamePk": 823448,
+      "gamePk": 824264,
       "status": "Scheduled",
       "statusCode": "Preview",
-      "startTime": "2026-06-18T22:40:00Z",
-      "inning": null,
-      "inningHalf": null,
-      "away": {
-        "name": "New York Mets",
-        "abbreviation": "NYM",
-        "score": null,
-        "isWinner": false
-      },
-      "home": {
-        "name": "Philadelphia Phillies",
-        "abbreviation": "PHI",
-        "score": null,
-        "isWinner": false
-      }
-    },
-    {
-      "gamePk": 823533,
-      "status": "Scheduled",
-      "statusCode": "Preview",
-      "startTime": "2026-06-18T23:05:00Z",
+      "startTime": "2026-06-19T22:40:00Z",
       "inning": null,
       "inningHalf": null,
       "away": {
         "name": "Chicago White Sox",
         "abbreviation": "CWS",
+        "score": null,
+        "isWinner": false
+      },
+      "home": {
+        "name": "Detroit Tigers",
+        "abbreviation": "DET",
+        "score": null,
+        "isWinner": false
+      }
+    },
+    {
+      "gamePk": 823534,
+      "status": "Scheduled",
+      "statusCode": "Preview",
+      "startTime": "2026-06-19T23:05:00Z",
+      "inning": null,
+      "inningHalf": null,
+      "away": {
+        "name": "Cincinnati Reds",
+        "abbreviation": "CIN",
         "score": null,
         "isWinner": false
       },
@@ -124,10 +64,110 @@
       }
     },
     {
-      "gamePk": 824098,
+      "gamePk": 822966,
       "status": "Scheduled",
       "statusCode": "Preview",
-      "startTime": "2026-06-18T23:40:00Z",
+      "startTime": "2026-06-19T23:10:00Z",
+      "inning": null,
+      "inningHalf": null,
+      "away": {
+        "name": "Washington Nationals",
+        "abbreviation": "WSH",
+        "score": null,
+        "isWinner": false
+      },
+      "home": {
+        "name": "Tampa Bay Rays",
+        "abbreviation": "TB",
+        "score": null,
+        "isWinner": false
+      }
+    },
+    {
+      "gamePk": 823853,
+      "status": "Scheduled",
+      "statusCode": "Preview",
+      "startTime": "2026-06-19T23:10:00Z",
+      "inning": null,
+      "inningHalf": null,
+      "away": {
+        "name": "San Francisco Giants",
+        "abbreviation": "SF",
+        "score": null,
+        "isWinner": false
+      },
+      "home": {
+        "name": "Miami Marlins",
+        "abbreviation": "MIA",
+        "score": null,
+        "isWinner": false
+      }
+    },
+    {
+      "gamePk": 824910,
+      "status": "Scheduled",
+      "statusCode": "Preview",
+      "startTime": "2026-06-19T23:15:00Z",
+      "inning": null,
+      "inningHalf": null,
+      "away": {
+        "name": "Milwaukee Brewers",
+        "abbreviation": "MIL",
+        "score": null,
+        "isWinner": false
+      },
+      "home": {
+        "name": "Atlanta Braves",
+        "abbreviation": "ATL",
+        "score": null,
+        "isWinner": false
+      }
+    },
+    {
+      "gamePk": 822886,
+      "status": "Scheduled",
+      "statusCode": "Preview",
+      "startTime": "2026-06-20T00:05:00Z",
+      "inning": null,
+      "inningHalf": null,
+      "away": {
+        "name": "San Diego Padres",
+        "abbreviation": "SD",
+        "score": null,
+        "isWinner": false
+      },
+      "home": {
+        "name": "Texas Rangers",
+        "abbreviation": "TEX",
+        "score": null,
+        "isWinner": false
+      }
+    },
+    {
+      "gamePk": 824179,
+      "status": "Scheduled",
+      "statusCode": "Preview",
+      "startTime": "2026-06-20T00:10:00Z",
+      "inning": null,
+      "inningHalf": null,
+      "away": {
+        "name": "Cleveland Guardians",
+        "abbreviation": "CLE",
+        "score": null,
+        "isWinner": false
+      },
+      "home": {
+        "name": "Houston Astros",
+        "abbreviation": "HOU",
+        "score": null,
+        "isWinner": false
+      }
+    },
+    {
+      "gamePk": 824097,
+      "status": "Scheduled",
+      "statusCode": "Preview",
+      "startTime": "2026-06-20T00:15:00Z",
       "inning": null,
       "inningHalf": null,
       "away": {
@@ -144,10 +184,30 @@
       }
     },
     {
-      "gamePk": 824989,
+      "gamePk": 824345,
       "status": "Scheduled",
       "statusCode": "Preview",
-      "startTime": "2026-06-19T01:40:00Z",
+      "startTime": "2026-06-20T00:40:00Z",
+      "inning": null,
+      "inningHalf": null,
+      "away": {
+        "name": "Pittsburgh Pirates",
+        "abbreviation": "PIT",
+        "score": null,
+        "isWinner": false
+      },
+      "home": {
+        "name": "Colorado Rockies",
+        "abbreviation": "COL",
+        "score": null,
+        "isWinner": false
+      }
+    },
+    {
+      "gamePk": 824990,
+      "status": "Scheduled",
+      "statusCode": "Preview",
+      "startTime": "2026-06-20T01:40:00Z",
       "inning": null,
       "inningHalf": null,
       "away": {
@@ -164,21 +224,61 @@
       }
     },
     {
-      "gamePk": 824911,
-      "status": "Postponed",
-      "statusCode": "Final",
-      "startTime": "2026-06-18T23:15:00Z",
+      "gamePk": 825069,
+      "status": "Scheduled",
+      "statusCode": "Preview",
+      "startTime": "2026-06-20T01:45:00Z",
       "inning": null,
       "inningHalf": null,
       "away": {
-        "name": "San Francisco Giants",
-        "abbreviation": "SF",
+        "name": "Minnesota Twins",
+        "abbreviation": "MIN",
         "score": null,
         "isWinner": false
       },
       "home": {
-        "name": "Atlanta Braves",
-        "abbreviation": "ATL",
+        "name": "Arizona Diamondbacks",
+        "abbreviation": "AZ",
+        "score": null,
+        "isWinner": false
+      }
+    },
+    {
+      "gamePk": 823936,
+      "status": "Scheduled",
+      "statusCode": "Preview",
+      "startTime": "2026-06-20T02:10:00Z",
+      "inning": null,
+      "inningHalf": null,
+      "away": {
+        "name": "Baltimore Orioles",
+        "abbreviation": "BAL",
+        "score": null,
+        "isWinner": false
+      },
+      "home": {
+        "name": "Los Angeles Dodgers",
+        "abbreviation": "LAD",
+        "score": null,
+        "isWinner": false
+      }
+    },
+    {
+      "gamePk": 823124,
+      "status": "Scheduled",
+      "statusCode": "Preview",
+      "startTime": "2026-06-20T02:10:00Z",
+      "inning": null,
+      "inningHalf": null,
+      "away": {
+        "name": "Boston Red Sox",
+        "abbreviation": "BOS",
+        "score": null,
+        "isWinner": false
+      },
+      "home": {
+        "name": "Seattle Mariners",
+        "abbreviation": "SEA",
         "score": null,
         "isWinner": false
       }
@@ -229,38 +329,12 @@
           "name": "Logan O'Hoppe",
           "team": "",
           "value": "32"
-        }
-      ],
-      "battingAverage": [
-        {
-          "rank": 1,
-          "name": "Will Smith",
-          "team": "",
-          "value": ".203"
-        },
-        {
-          "rank": 2,
-          "name": "Drake Baldwin",
-          "team": "",
-          "value": ".208"
-        },
-        {
-          "rank": 3,
-          "name": "Luis Torrens",
-          "team": "",
-          "value": ".216"
-        },
-        {
-          "rank": 4,
-          "name": "Austin Wells",
-          "team": "",
-          "value": ".220"
         },
         {
           "rank": 5,
-          "name": "William Contreras",
+          "name": "Brandon Valenzuela",
           "team": "",
-          "value": ".222"
+          "value": "32"
         }
       ],
       "homeRuns": [
@@ -293,6 +367,38 @@
           "name": "Ryne Nelson",
           "team": "",
           "value": "18"
+        }
+      ],
+      "battingAverage": [
+        {
+          "rank": 1,
+          "name": "Will Smith",
+          "team": "",
+          "value": ".203"
+        },
+        {
+          "rank": 2,
+          "name": "Drake Baldwin",
+          "team": "",
+          "value": ".208"
+        },
+        {
+          "rank": 3,
+          "name": "Luis Torrens",
+          "team": "",
+          "value": ".216"
+        },
+        {
+          "rank": 4,
+          "name": "Austin Wells",
+          "team": "",
+          "value": ".220"
+        },
+        {
+          "rank": 5,
+          "name": "William Contreras",
+          "team": "",
+          "value": ".222"
         }
       ],
       "onBasePlusSlugging": [
@@ -341,14 +447,14 @@
           "value": "57"
         },
         {
-          "rank": 2,
-          "name": "Andy Pages",
+          "rank": 1,
+          "name": "Jordan Walker",
           "team": "",
-          "value": "56"
+          "value": "57"
         },
         {
-          "rank": 2,
-          "name": "Jordan Walker",
+          "rank": 3,
+          "name": "Andy Pages",
           "team": "",
           "value": "56"
         },
@@ -363,6 +469,12 @@
           "name": "CJ Abrams",
           "team": "",
           "value": "54"
+        },
+        {
+          "rank": 5,
+          "name": "Alec Burleson",
+          "team": "",
+          "value": "54"
         }
       ]
     },
@@ -372,13 +484,13 @@
           "rank": 1,
           "name": "Kyle Schwarber",
           "team": "",
-          "value": "110"
+          "value": "112"
         },
         {
           "rank": 2,
           "name": "Zach Neto",
           "team": "",
-          "value": "105"
+          "value": "106"
         },
         {
           "rank": 3,
@@ -395,6 +507,12 @@
         {
           "rank": 5,
           "name": "Oneil Cruz",
+          "team": "",
+          "value": "98"
+        },
+        {
+          "rank": 5,
+          "name": "Kazuma Okamoto",
           "team": "",
           "value": "98"
         }
@@ -436,7 +554,7 @@
           "rank": 1,
           "name": "Cade Smith",
           "team": "",
-          "value": "23"
+          "value": "24"
         },
         {
           "rank": 2,
