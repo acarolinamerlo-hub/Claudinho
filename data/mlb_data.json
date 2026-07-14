@@ -1,8 +1,29 @@
 {
-  "fetchedAt": "2026-07-13T12:32:24.100120+00:00",
-  "date": "2026-07-13",
+  "fetchedAt": "2026-07-14T11:26:07.252210+00:00",
+  "date": "2026-07-14",
   "season": 2026,
-  "schedule": [],
+  "schedule": [
+    {
+      "gamePk": 823443,
+      "status": "Pre-Game",
+      "statusCode": "Preview",
+      "startTime": "2026-07-15T00:00:00Z",
+      "inning": 1,
+      "inningHalf": "Top",
+      "away": {
+        "name": "American League All-Stars",
+        "abbreviation": "AL",
+        "score": 0,
+        "isWinner": false
+      },
+      "home": {
+        "name": "National League All-Stars",
+        "abbreviation": "NL",
+        "score": 0,
+        "isWinner": false
+      }
+    }
+  ],
   "standings": [],
   "leaders": {
     "batting": {
@@ -36,50 +57,6 @@
           "name": "Logan O'Hoppe",
           "team": "",
           "value": "47"
-        }
-      ],
-      "battingAverage": [
-        {
-          "rank": 1,
-          "name": "William Contreras",
-          "team": "",
-          "value": ".218"
-        },
-        {
-          "rank": 2,
-          "name": "Drake Baldwin",
-          "team": "",
-          "value": ".219"
-        },
-        {
-          "rank": 3,
-          "name": "Christian Vázquez",
-          "team": "",
-          "value": ".223"
-        },
-        {
-          "rank": 3,
-          "name": "Austin Wells",
-          "team": "",
-          "value": ".223"
-        },
-        {
-          "rank": 5,
-          "name": "Nick Fortes",
-          "team": "",
-          "value": ".232"
-        },
-        {
-          "rank": 5,
-          "name": "Joe Mack",
-          "team": "",
-          "value": ".232"
-        },
-        {
-          "rank": 5,
-          "name": "Luis Torrens",
-          "team": "",
-          "value": ".232"
         }
       ],
       "homeRuns": [
@@ -142,6 +119,50 @@
           "name": "Jameson Taillon",
           "team": "",
           "value": "20"
+        }
+      ],
+      "battingAverage": [
+        {
+          "rank": 1,
+          "name": "William Contreras",
+          "team": "",
+          "value": ".218"
+        },
+        {
+          "rank": 2,
+          "name": "Drake Baldwin",
+          "team": "",
+          "value": ".219"
+        },
+        {
+          "rank": 3,
+          "name": "Christian Vázquez",
+          "team": "",
+          "value": ".223"
+        },
+        {
+          "rank": 3,
+          "name": "Austin Wells",
+          "team": "",
+          "value": ".223"
+        },
+        {
+          "rank": 5,
+          "name": "Nick Fortes",
+          "team": "",
+          "value": ".232"
+        },
+        {
+          "rank": 5,
+          "name": "Joe Mack",
+          "team": "",
+          "value": ".232"
+        },
+        {
+          "rank": 5,
+          "name": "Luis Torrens",
+          "team": "",
+          "value": ".232"
         }
       ],
       "onBasePlusSlugging": [
