@@ -1,118 +1,18 @@
 {
-  "fetchedAt": "2026-08-20T10:31:31.879161+00:00",
-  "date": "2026-08-20",
+  "fetchedAt": "2026-08-21T10:31:41.076240+00:00",
+  "date": "2026-08-21",
   "season": 2026,
   "schedule": [
     {
-      "gamePk": 824474,
+      "gamePk": 823746,
       "status": "Scheduled",
       "statusCode": "Preview",
-      "startTime": "2026-08-20T16:40:00Z",
-      "inning": null,
-      "inningHalf": null,
-      "away": {
-        "name": "St. Louis Cardinals",
-        "abbreviation": "STL",
-        "score": null,
-        "isWinner": false
-      },
-      "home": {
-        "name": "Cincinnati Reds",
-        "abbreviation": "CIN",
-        "score": null,
-        "isWinner": false
-      }
-    },
-    {
-      "gamePk": 824395,
-      "status": "Scheduled",
-      "statusCode": "Preview",
-      "startTime": "2026-08-20T17:10:00Z",
-      "inning": null,
-      "inningHalf": null,
-      "away": {
-        "name": "San Francisco Giants",
-        "abbreviation": "SF",
-        "score": null,
-        "isWinner": false
-      },
-      "home": {
-        "name": "Cleveland Guardians",
-        "abbreviation": "CLE",
-        "score": null,
-        "isWinner": false
-      }
-    },
-    {
-      "gamePk": 822934,
-      "status": "Scheduled",
-      "statusCode": "Preview",
-      "startTime": "2026-08-20T17:10:00Z",
-      "inning": null,
-      "inningHalf": null,
-      "away": {
-        "name": "Toronto Blue Jays",
-        "abbreviation": "TOR",
-        "score": null,
-        "isWinner": false
-      },
-      "home": {
-        "name": "Tampa Bay Rays",
-        "abbreviation": "TB",
-        "score": null,
-        "isWinner": false
-      }
-    },
-    {
-      "gamePk": 824074,
-      "status": "Scheduled",
-      "statusCode": "Preview",
-      "startTime": "2026-08-20T18:10:00Z",
-      "inning": null,
-      "inningHalf": null,
-      "away": {
-        "name": "Athletics",
-        "abbreviation": "ATH",
-        "score": null,
-        "isWinner": false
-      },
-      "home": {
-        "name": "Kansas City Royals",
-        "abbreviation": "KC",
-        "score": null,
-        "isWinner": false
-      }
-    },
-    {
-      "gamePk": 824589,
-      "status": "Scheduled",
-      "statusCode": "Preview",
-      "startTime": "2026-08-20T18:10:00Z",
+      "startTime": "2026-08-21T20:10:00Z",
       "inning": null,
       "inningHalf": null,
       "away": {
         "name": "Atlanta Braves",
         "abbreviation": "ATL",
-        "score": null,
-        "isWinner": false
-      },
-      "home": {
-        "name": "Chicago White Sox",
-        "abbreviation": "CWS",
-        "score": null,
-        "isWinner": false
-      }
-    },
-    {
-      "gamePk": 823747,
-      "status": "Scheduled",
-      "statusCode": "Preview",
-      "startTime": "2026-08-20T18:10:00Z",
-      "inning": null,
-      "inningHalf": null,
-      "away": {
-        "name": "Seattle Mariners",
-        "abbreviation": "SEA",
         "score": null,
         "isWinner": false
       },
@@ -124,15 +24,95 @@
       }
     },
     {
-      "gamePk": 824802,
+      "gamePk": 823420,
       "status": "Scheduled",
       "statusCode": "Preview",
-      "startTime": "2026-08-20T22:35:00Z",
+      "startTime": "2026-08-21T22:40:00Z",
       "inning": null,
       "inningHalf": null,
       "away": {
+        "name": "St. Louis Cardinals",
+        "abbreviation": "STL",
+        "score": null,
+        "isWinner": false
+      },
+      "home": {
+        "name": "Philadelphia Phillies",
+        "abbreviation": "PHI",
+        "score": null,
+        "isWinner": false
+      }
+    },
+    {
+      "gamePk": 823510,
+      "status": "Scheduled",
+      "statusCode": "Preview",
+      "startTime": "2026-08-21T23:05:00Z",
+      "inning": null,
+      "inningHalf": null,
+      "away": {
+        "name": "Toronto Blue Jays",
+        "abbreviation": "TOR",
+        "score": null,
+        "isWinner": false
+      },
+      "home": {
         "name": "New York Yankees",
         "abbreviation": "NYY",
+        "score": null,
+        "isWinner": false
+      }
+    },
+    {
+      "gamePk": 824721,
+      "status": "Scheduled",
+      "statusCode": "Preview",
+      "startTime": "2026-08-21T23:10:00Z",
+      "inning": null,
+      "inningHalf": null,
+      "away": {
+        "name": "San Francisco Giants",
+        "abbreviation": "SF",
+        "score": null,
+        "isWinner": false
+      },
+      "home": {
+        "name": "Boston Red Sox",
+        "abbreviation": "BOS",
+        "score": null,
+        "isWinner": false
+      }
+    },
+    {
+      "gamePk": 823830,
+      "status": "Scheduled",
+      "statusCode": "Preview",
+      "startTime": "2026-08-21T23:10:00Z",
+      "inning": null,
+      "inningHalf": null,
+      "away": {
+        "name": "Washington Nationals",
+        "abbreviation": "WSH",
+        "score": null,
+        "isWinner": false
+      },
+      "home": {
+        "name": "Miami Marlins",
+        "abbreviation": "MIA",
+        "score": null,
+        "isWinner": false
+      }
+    },
+    {
+      "gamePk": 824800,
+      "status": "Scheduled",
+      "statusCode": "Preview",
+      "startTime": "2026-08-21T23:15:00Z",
+      "inning": null,
+      "inningHalf": null,
+      "away": {
+        "name": "Tampa Bay Rays",
+        "abbreviation": "TB",
         "score": null,
         "isWinner": false
       },
@@ -144,15 +124,75 @@
       }
     },
     {
-      "gamePk": 822861,
+      "gamePk": 824559,
       "status": "Scheduled",
       "statusCode": "Preview",
-      "startTime": "2026-08-21T00:05:00Z",
+      "startTime": "2026-08-21T23:40:00Z",
       "inning": null,
       "inningHalf": null,
       "away": {
-        "name": "Washington Nationals",
-        "abbreviation": "WSH",
+        "name": "New York Mets",
+        "abbreviation": "NYM",
+        "score": null,
+        "isWinner": false
+      },
+      "home": {
+        "name": "Chicago White Sox",
+        "abbreviation": "CWS",
+        "score": null,
+        "isWinner": false
+      }
+    },
+    {
+      "gamePk": 824072,
+      "status": "Scheduled",
+      "statusCode": "Preview",
+      "startTime": "2026-08-22T00:10:00Z",
+      "inning": null,
+      "inningHalf": null,
+      "away": {
+        "name": "Detroit Tigers",
+        "abbreviation": "DET",
+        "score": null,
+        "isWinner": false
+      },
+      "home": {
+        "name": "Kansas City Royals",
+        "abbreviation": "KC",
+        "score": null,
+        "isWinner": false
+      }
+    },
+    {
+      "gamePk": 824152,
+      "status": "Scheduled",
+      "statusCode": "Preview",
+      "startTime": "2026-08-22T00:10:00Z",
+      "inning": null,
+      "inningHalf": null,
+      "away": {
+        "name": "Athletics",
+        "abbreviation": "ATH",
+        "score": null,
+        "isWinner": false
+      },
+      "home": {
+        "name": "Houston Astros",
+        "abbreviation": "HOU",
+        "score": null,
+        "isWinner": false
+      }
+    },
+    {
+      "gamePk": 822857,
+      "status": "Scheduled",
+      "statusCode": "Preview",
+      "startTime": "2026-08-22T00:15:00Z",
+      "inning": null,
+      "inningHalf": null,
+      "away": {
+        "name": "Los Angeles Angels",
+        "abbreviation": "LAA",
         "score": null,
         "isWinner": false
       },
@@ -164,21 +204,101 @@
       }
     },
     {
-      "gamePk": 824153,
+      "gamePk": 824317,
       "status": "Scheduled",
       "statusCode": "Preview",
-      "startTime": "2026-08-21T00:10:00Z",
+      "startTime": "2026-08-22T00:40:00Z",
       "inning": null,
       "inningHalf": null,
       "away": {
-        "name": "Los Angeles Angels",
-        "abbreviation": "LAA",
+        "name": "Cleveland Guardians",
+        "abbreviation": "CLE",
         "score": null,
         "isWinner": false
       },
       "home": {
-        "name": "Houston Astros",
-        "abbreviation": "HOU",
+        "name": "Colorado Rockies",
+        "abbreviation": "COL",
+        "score": null,
+        "isWinner": false
+      }
+    },
+    {
+      "gamePk": 825045,
+      "status": "Scheduled",
+      "statusCode": "Preview",
+      "startTime": "2026-08-22T01:40:00Z",
+      "inning": null,
+      "inningHalf": null,
+      "away": {
+        "name": "Cincinnati Reds",
+        "abbreviation": "CIN",
+        "score": null,
+        "isWinner": false
+      },
+      "home": {
+        "name": "Arizona Diamondbacks",
+        "abbreviation": "AZ",
+        "score": null,
+        "isWinner": false
+      }
+    },
+    {
+      "gamePk": 823262,
+      "status": "Scheduled",
+      "statusCode": "Preview",
+      "startTime": "2026-08-22T01:40:00Z",
+      "inning": null,
+      "inningHalf": null,
+      "away": {
+        "name": "Minnesota Twins",
+        "abbreviation": "MIN",
+        "score": null,
+        "isWinner": false
+      },
+      "home": {
+        "name": "San Diego Padres",
+        "abbreviation": "SD",
+        "score": null,
+        "isWinner": false
+      }
+    },
+    {
+      "gamePk": 823911,
+      "status": "Scheduled",
+      "statusCode": "Preview",
+      "startTime": "2026-08-22T02:10:00Z",
+      "inning": null,
+      "inningHalf": null,
+      "away": {
+        "name": "Pittsburgh Pirates",
+        "abbreviation": "PIT",
+        "score": null,
+        "isWinner": false
+      },
+      "home": {
+        "name": "Los Angeles Dodgers",
+        "abbreviation": "LAD",
+        "score": null,
+        "isWinner": false
+      }
+    },
+    {
+      "gamePk": 823101,
+      "status": "Scheduled",
+      "statusCode": "Preview",
+      "startTime": "2026-08-22T02:10:00Z",
+      "inning": null,
+      "inningHalf": null,
+      "away": {
+        "name": "Chicago Cubs",
+        "abbreviation": "CHC",
+        "score": null,
+        "isWinner": false
+      },
+      "home": {
+        "name": "Seattle Mariners",
+        "abbreviation": "SEA",
         "score": null,
         "isWinner": false
       }
@@ -198,7 +318,7 @@
           "rank": 2,
           "name": "Nick Fortes",
           "team": "",
-          "value": "64"
+          "value": "66"
         },
         {
           "rank": 3,
@@ -214,15 +334,41 @@
         },
         {
           "rank": 5,
-          "name": "Victor Caratini",
-          "team": "",
-          "value": "54"
-        },
-        {
-          "rank": 5,
           "name": "Keibert Ruiz",
           "team": "",
-          "value": "54"
+          "value": "56"
+        }
+      ],
+      "battingAverage": [
+        {
+          "rank": 1,
+          "name": "William Contreras",
+          "team": "",
+          "value": ".217"
+        },
+        {
+          "rank": 1,
+          "name": "Austin Wells",
+          "team": "",
+          "value": ".217"
+        },
+        {
+          "rank": 3,
+          "name": "Drake Baldwin",
+          "team": "",
+          "value": ".218"
+        },
+        {
+          "rank": 4,
+          "name": "Hunter Feduccia",
+          "team": "",
+          "value": ".225"
+        },
+        {
+          "rank": 4,
+          "name": "Christian Vázquez",
+          "team": "",
+          "value": ".225"
         }
       ],
       "homeRuns": [
@@ -255,38 +401,6 @@
           "name": "Miles Mikolas",
           "team": "",
           "value": "27"
-        }
-      ],
-      "battingAverage": [
-        {
-          "rank": 1,
-          "name": "William Contreras",
-          "team": "",
-          "value": ".217"
-        },
-        {
-          "rank": 2,
-          "name": "Drake Baldwin",
-          "team": "",
-          "value": ".218"
-        },
-        {
-          "rank": 2,
-          "name": "Austin Wells",
-          "team": "",
-          "value": ".218"
-        },
-        {
-          "rank": 4,
-          "name": "Christian Vázquez",
-          "team": "",
-          "value": ".222"
-        },
-        {
-          "rank": 5,
-          "name": "Hunter Feduccia",
-          "team": "",
-          "value": ".225"
         }
       ],
       "onBasePlusSlugging": [
@@ -326,25 +440,25 @@
           "rank": 1,
           "name": "Sal Stewart",
           "team": "",
-          "value": "94"
+          "value": "96"
         },
         {
           "rank": 2,
-          "name": "Alec Burleson",
+          "name": "Jordan Walker",
           "team": "",
-          "value": "92"
+          "value": "94"
         },
         {
           "rank": 3,
-          "name": "CJ Abrams",
+          "name": "Alec Burleson",
           "team": "",
-          "value": "91"
+          "value": "93"
         },
         {
           "rank": 4,
-          "name": "Jordan Walker",
+          "name": "CJ Abrams",
           "team": "",
-          "value": "90"
+          "value": "91"
         },
         {
           "rank": 5,
@@ -372,19 +486,19 @@
           "rank": 3,
           "name": "Colson Montgomery",
           "team": "",
-          "value": "166"
+          "value": "168"
         },
         {
           "rank": 4,
-          "name": "Ian Happ",
+          "name": "Austin Riley",
           "team": "",
-          "value": "160"
+          "value": "161"
         },
         {
           "rank": 5,
-          "name": "Austin Riley",
+          "name": "Ian Happ",
           "team": "",
-          "value": "159"
+          "value": "160"
         }
       ],
       "walksAndHitsPerInningPitched": [
@@ -392,7 +506,7 @@
           "rank": 1,
           "name": "Austin Wells",
           "team": "",
-          "value": "1.11"
+          "value": "1.10"
         },
         {
           "rank": 2,
@@ -404,7 +518,7 @@
           "rank": 3,
           "name": "Nick Fortes",
           "team": "",
-          "value": "1.14"
+          "value": "1.15"
         },
         {
           "rank": 4,
@@ -430,17 +544,17 @@
           "rank": 2,
           "name": "Riley O'Brien",
           "team": "",
-          "value": "32"
-        },
-        {
-          "rank": 3,
-          "name": "Mason Miller",
-          "team": "",
-          "value": "31"
+          "value": "33"
         },
         {
           "rank": 3,
           "name": "Cade Smith",
+          "team": "",
+          "value": "32"
+        },
+        {
+          "rank": 4,
+          "name": "Mason Miller",
           "team": "",
           "value": "31"
         },
@@ -456,7 +570,7 @@
           "rank": 1,
           "name": "Austin Wells",
           "team": "",
-          "value": "2.90"
+          "value": "2.87"
         },
         {
           "rank": 2,
