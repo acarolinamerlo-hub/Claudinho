@@ -1,84 +1,24 @@
 {
-  "fetchedAt": "2026-09-30T16:17:31.654902+00:00",
-  "date": "2026-09-30",
+  "fetchedAt": "2026-10-01T16:54:47.953131+00:00",
+  "date": "2026-10-01",
   "season": 2026,
   "schedule": [
     {
-      "gamePk": 849841,
-      "status": "Pre-Game",
+      "gamePk": 849844,
+      "status": "Scheduled",
       "statusCode": "Preview",
-      "startTime": "2026-09-30T18:00:00Z",
-      "inning": 1,
-      "inningHalf": "Top",
+      "startTime": "2026-10-02T00:00:00Z",
+      "inning": null,
+      "inningHalf": null,
       "away": {
         "name": "Philadelphia Phillies",
         "abbreviation": "PHI",
-        "score": 0,
+        "score": null,
         "isWinner": false
       },
       "home": {
         "name": "Atlanta Braves",
         "abbreviation": "ATL",
-        "score": 0,
-        "isWinner": false
-      }
-    },
-    {
-      "gamePk": 849846,
-      "status": "Scheduled",
-      "statusCode": "Preview",
-      "startTime": "2026-09-30T21:00:00Z",
-      "inning": null,
-      "inningHalf": null,
-      "away": {
-        "name": "Chicago White Sox",
-        "abbreviation": "CWS",
-        "score": null,
-        "isWinner": false
-      },
-      "home": {
-        "name": "Houston Astros",
-        "abbreviation": "HOU",
-        "score": null,
-        "isWinner": false
-      }
-    },
-    {
-      "gamePk": 849848,
-      "status": "Scheduled",
-      "statusCode": "Preview",
-      "startTime": "2026-10-01T00:00:00Z",
-      "inning": null,
-      "inningHalf": null,
-      "away": {
-        "name": "Boston Red Sox",
-        "abbreviation": "BOS",
-        "score": null,
-        "isWinner": false
-      },
-      "home": {
-        "name": "New York Yankees",
-        "abbreviation": "NYY",
-        "score": null,
-        "isWinner": false
-      }
-    },
-    {
-      "gamePk": 849842,
-      "status": "Scheduled",
-      "statusCode": "Preview",
-      "startTime": "2026-10-01T02:00:00Z",
-      "inning": null,
-      "inningHalf": null,
-      "away": {
-        "name": "Chicago Cubs",
-        "abbreviation": "CHC",
-        "score": null,
-        "isWinner": false
-      },
-      "home": {
-        "name": "San Diego Padres",
-        "abbreviation": "SD",
         "score": null,
         "isWinner": false
       }
@@ -232,7 +172,7 @@
           "rank": 3,
           "name": "Sal Stewart",
           "team": "",
-          "value": "111"
+          "value": "112"
         },
         {
           "rank": 4,
