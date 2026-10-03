@@ -1,8 +1,89 @@
 {
-  "fetchedAt": "2026-10-02T16:08:03.082916+00:00",
-  "date": "2026-10-02",
+  "fetchedAt": "2026-10-03T14:35:16.706305+00:00",
+  "date": "2026-10-03",
   "season": 2026,
-  "schedule": [],
+  "schedule": [
+    {
+      "gamePk": 849829,
+      "status": "Pre-Game",
+      "statusCode": "Preview",
+      "startTime": "2026-10-03T17:00:00Z",
+      "inning": 1,
+      "inningHalf": "Top",
+      "away": {
+        "name": "Chicago White Sox",
+        "abbreviation": "CWS",
+        "score": 0,
+        "isWinner": false
+      },
+      "home": {
+        "name": "Cleveland Guardians",
+        "abbreviation": "CLE",
+        "score": 0,
+        "isWinner": false
+      }
+    },
+    {
+      "gamePk": 849828,
+      "status": "Scheduled",
+      "statusCode": "Preview",
+      "startTime": "2026-10-03T20:00:00Z",
+      "inning": null,
+      "inningHalf": null,
+      "away": {
+        "name": "Atlanta Braves",
+        "abbreviation": "ATL",
+        "score": null,
+        "isWinner": false
+      },
+      "home": {
+        "name": "Los Angeles Dodgers",
+        "abbreviation": "LAD",
+        "score": null,
+        "isWinner": false
+      }
+    },
+    {
+      "gamePk": 849835,
+      "status": "Scheduled",
+      "statusCode": "Preview",
+      "startTime": "2026-10-03T22:30:00Z",
+      "inning": null,
+      "inningHalf": null,
+      "away": {
+        "name": "New York Yankees",
+        "abbreviation": "NYY",
+        "score": null,
+        "isWinner": false
+      },
+      "home": {
+        "name": "Tampa Bay Rays",
+        "abbreviation": "TB",
+        "score": null,
+        "isWinner": false
+      }
+    },
+    {
+      "gamePk": 849830,
+      "status": "Scheduled",
+      "statusCode": "Preview",
+      "startTime": "2026-10-04T00:30:00Z",
+      "inning": null,
+      "inningHalf": null,
+      "away": {
+        "name": "San Diego Padres",
+        "abbreviation": "SD",
+        "score": null,
+        "isWinner": false
+      },
+      "home": {
+        "name": "Milwaukee Brewers",
+        "abbreviation": "MIL",
+        "score": null,
+        "isWinner": false
+      }
+    }
+  ],
   "standings": [],
   "leaders": {
     "batting": {
