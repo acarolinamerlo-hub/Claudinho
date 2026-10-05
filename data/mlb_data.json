@@ -1,44 +1,44 @@
 {
-  "fetchedAt": "2026-10-04T15:10:41.814672+00:00",
-  "date": "2026-10-04",
+  "fetchedAt": "2026-10-05T19:06:24.822834+00:00",
+  "date": "2026-10-05",
   "season": 2026,
   "schedule": [
     {
-      "gamePk": 849825,
-      "status": "Scheduled",
+      "gamePk": 849834,
+      "status": "Pre-Game",
       "statusCode": "Preview",
-      "startTime": "2026-10-04T20:00:00Z",
-      "inning": null,
-      "inningHalf": null,
+      "startTime": "2026-10-05T21:00:00Z",
+      "inning": 1,
+      "inningHalf": "Top",
       "away": {
-        "name": "San Diego Padres",
-        "abbreviation": "SD",
-        "score": null,
+        "name": "Chicago White Sox",
+        "abbreviation": "CWS",
+        "score": 0,
         "isWinner": false
       },
       "home": {
-        "name": "Milwaukee Brewers",
-        "abbreviation": "MIL",
-        "score": null,
+        "name": "Cleveland Guardians",
+        "abbreviation": "CLE",
+        "score": 0,
         "isWinner": false
       }
     },
     {
-      "gamePk": 849823,
+      "gamePk": 849839,
       "status": "Scheduled",
       "statusCode": "Preview",
-      "startTime": "2026-10-05T00:00:00Z",
+      "startTime": "2026-10-06T00:00:00Z",
       "inning": null,
       "inningHalf": null,
       "away": {
-        "name": "Atlanta Braves",
-        "abbreviation": "ATL",
+        "name": "New York Yankees",
+        "abbreviation": "NYY",
         "score": null,
         "isWinner": false
       },
       "home": {
-        "name": "Los Angeles Dodgers",
-        "abbreviation": "LAD",
+        "name": "Tampa Bay Rays",
+        "abbreviation": "TB",
         "score": null,
         "isWinner": false
       }
@@ -79,38 +79,6 @@
           "value": "73"
         }
       ],
-      "homeRuns": [
-        {
-          "rank": 1,
-          "name": "Aaron Nola",
-          "team": "",
-          "value": "37"
-        },
-        {
-          "rank": 2,
-          "name": "Shota Imanaga",
-          "team": "",
-          "value": "35"
-        },
-        {
-          "rank": 2,
-          "name": "Jeffrey Springs",
-          "team": "",
-          "value": "35"
-        },
-        {
-          "rank": 4,
-          "name": "Tomoyuki Sugano",
-          "team": "",
-          "value": "33"
-        },
-        {
-          "rank": 5,
-          "name": "Brady Singer",
-          "team": "",
-          "value": "32"
-        }
-      ],
       "battingAverage": [
         {
           "rank": 1,
@@ -141,6 +109,38 @@
           "name": "Nick Fortes",
           "team": "",
           "value": ".229"
+        }
+      ],
+      "homeRuns": [
+        {
+          "rank": 1,
+          "name": "Aaron Nola",
+          "team": "",
+          "value": "37"
+        },
+        {
+          "rank": 2,
+          "name": "Shota Imanaga",
+          "team": "",
+          "value": "35"
+        },
+        {
+          "rank": 2,
+          "name": "Jeffrey Springs",
+          "team": "",
+          "value": "35"
+        },
+        {
+          "rank": 4,
+          "name": "Tomoyuki Sugano",
+          "team": "",
+          "value": "33"
+        },
+        {
+          "rank": 5,
+          "name": "Brady Singer",
+          "team": "",
+          "value": "32"
         }
       ],
       "onBasePlusSlugging": [
