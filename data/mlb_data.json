@@ -1,84 +1,24 @@
 {
-  "fetchedAt": "2026-10-07T17:19:07.379586+00:00",
-  "date": "2026-10-07",
+  "fetchedAt": "2026-10-08T17:14:44.849995+00:00",
+  "date": "2026-10-08",
   "season": 2026,
   "schedule": [
     {
-      "gamePk": 849833,
-      "status": "Pre-Game",
+      "gamePk": 849832,
+      "status": "Scheduled",
       "statusCode": "Preview",
-      "startTime": "2026-10-07T20:00:00Z",
-      "inning": 1,
-      "inningHalf": "Top",
+      "startTime": "2026-10-09T00:00:00Z",
+      "inning": null,
+      "inningHalf": null,
       "away": {
         "name": "Cleveland Guardians",
         "abbreviation": "CLE",
-        "score": 0,
+        "score": null,
         "isWinner": false
       },
       "home": {
         "name": "Chicago White Sox",
         "abbreviation": "CWS",
-        "score": 0,
-        "isWinner": false
-      }
-    },
-    {
-      "gamePk": 849822,
-      "status": "Scheduled",
-      "statusCode": "Preview",
-      "startTime": "2026-10-07T22:00:00Z",
-      "inning": null,
-      "inningHalf": null,
-      "away": {
-        "name": "Los Angeles Dodgers",
-        "abbreviation": "LAD",
-        "score": null,
-        "isWinner": false
-      },
-      "home": {
-        "name": "Atlanta Braves",
-        "abbreviation": "ATL",
-        "score": null,
-        "isWinner": false
-      }
-    },
-    {
-      "gamePk": 849838,
-      "status": "Scheduled",
-      "statusCode": "Preview",
-      "startTime": "2026-10-08T00:00:00Z",
-      "inning": null,
-      "inningHalf": null,
-      "away": {
-        "name": "Tampa Bay Rays",
-        "abbreviation": "TB",
-        "score": null,
-        "isWinner": false
-      },
-      "home": {
-        "name": "New York Yankees",
-        "abbreviation": "NYY",
-        "score": null,
-        "isWinner": false
-      }
-    },
-    {
-      "gamePk": 849827,
-      "status": "Scheduled",
-      "statusCode": "Preview",
-      "startTime": "2026-10-08T02:00:00Z",
-      "inning": null,
-      "inningHalf": null,
-      "away": {
-        "name": "Milwaukee Brewers",
-        "abbreviation": "MIL",
-        "score": null,
-        "isWinner": false
-      },
-      "home": {
-        "name": "San Diego Padres",
-        "abbreviation": "SD",
         "score": null,
         "isWinner": false
       }
@@ -119,38 +59,6 @@
           "value": "73"
         }
       ],
-      "battingAverage": [
-        {
-          "rank": 1,
-          "name": "William Contreras",
-          "team": "",
-          "value": ".218"
-        },
-        {
-          "rank": 2,
-          "name": "Hunter Feduccia",
-          "team": "",
-          "value": ".219"
-        },
-        {
-          "rank": 3,
-          "name": "Austin Wells",
-          "team": "",
-          "value": ".221"
-        },
-        {
-          "rank": 4,
-          "name": "Drake Baldwin",
-          "team": "",
-          "value": ".222"
-        },
-        {
-          "rank": 5,
-          "name": "Nick Fortes",
-          "team": "",
-          "value": ".229"
-        }
-      ],
       "homeRuns": [
         {
           "rank": 1,
@@ -181,6 +89,38 @@
           "name": "Brady Singer",
           "team": "",
           "value": "32"
+        }
+      ],
+      "battingAverage": [
+        {
+          "rank": 1,
+          "name": "William Contreras",
+          "team": "",
+          "value": ".218"
+        },
+        {
+          "rank": 2,
+          "name": "Hunter Feduccia",
+          "team": "",
+          "value": ".219"
+        },
+        {
+          "rank": 3,
+          "name": "Austin Wells",
+          "team": "",
+          "value": ".221"
+        },
+        {
+          "rank": 4,
+          "name": "Drake Baldwin",
+          "team": "",
+          "value": ".222"
+        },
+        {
+          "rank": 5,
+          "name": "Nick Fortes",
+          "team": "",
+          "value": ".229"
         }
       ],
       "onBasePlusSlugging": [
