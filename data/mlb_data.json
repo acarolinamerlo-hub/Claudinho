@@ -1,29 +1,8 @@
 {
-  "fetchedAt": "2026-10-08T17:14:44.849995+00:00",
-  "date": "2026-10-08",
+  "fetchedAt": "2026-10-09T16:50:54.634452+00:00",
+  "date": "2026-10-09",
   "season": 2026,
-  "schedule": [
-    {
-      "gamePk": 849832,
-      "status": "Scheduled",
-      "statusCode": "Preview",
-      "startTime": "2026-10-09T00:00:00Z",
-      "inning": null,
-      "inningHalf": null,
-      "away": {
-        "name": "Cleveland Guardians",
-        "abbreviation": "CLE",
-        "score": null,
-        "isWinner": false
-      },
-      "home": {
-        "name": "Chicago White Sox",
-        "abbreviation": "CWS",
-        "score": null,
-        "isWinner": false
-      }
-    }
-  ],
+  "schedule": [],
   "standings": [],
   "leaders": {
     "batting": {
