@@ -1,24 +1,44 @@
 {
-  "fetchedAt": "2026-10-11T16:10:16.995205+00:00",
-  "date": "2026-10-11",
+  "fetchedAt": "2026-10-12T19:39:50.386228+00:00",
+  "date": "2026-10-12",
   "season": 2026,
   "schedule": [
     {
-      "gamePk": 849809,
-      "status": "Scheduled",
+      "gamePk": 849812,
+      "status": "Pre-Game",
       "statusCode": "Preview",
-      "startTime": "2026-10-12T00:00:00Z",
-      "inning": null,
-      "inningHalf": null,
+      "startTime": "2026-10-12T21:00:00Z",
+      "inning": 1,
+      "inningHalf": "Top",
       "away": {
         "name": "Los Angeles Dodgers",
         "abbreviation": "LAD",
-        "score": null,
+        "score": 0,
         "isWinner": false
       },
       "home": {
         "name": "Milwaukee Brewers",
         "abbreviation": "MIL",
+        "score": 0,
+        "isWinner": false
+      }
+    },
+    {
+      "gamePk": 849820,
+      "status": "Scheduled",
+      "statusCode": "Preview",
+      "startTime": "2026-10-13T00:00:00Z",
+      "inning": null,
+      "inningHalf": null,
+      "away": {
+        "name": "Cleveland Guardians",
+        "abbreviation": "CLE",
+        "score": null,
+        "isWinner": false
+      },
+      "home": {
+        "name": "Tampa Bay Rays",
+        "abbreviation": "TB",
         "score": null,
         "isWinner": false
       }
