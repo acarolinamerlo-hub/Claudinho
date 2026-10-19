@@ -1,24 +1,24 @@
 {
-  "fetchedAt": "2026-10-18T13:48:14.167559+00:00",
-  "date": "2026-10-18",
+  "fetchedAt": "2026-10-19T16:50:36.862231+00:00",
+  "date": "2026-10-19",
   "season": 2026,
   "schedule": [
     {
-      "gamePk": 849817,
+      "gamePk": 849815,
       "status": "Scheduled",
       "statusCode": "Preview",
-      "startTime": "2026-10-18T21:08:00Z",
+      "startTime": "2026-10-20T00:08:00Z",
       "inning": null,
       "inningHalf": null,
       "away": {
-        "name": "Tampa Bay Rays",
-        "abbreviation": "TB",
+        "name": "Cleveland Guardians",
+        "abbreviation": "CLE",
         "score": null,
         "isWinner": false
       },
       "home": {
-        "name": "Cleveland Guardians",
-        "abbreviation": "CLE",
+        "name": "Tampa Bay Rays",
+        "abbreviation": "TB",
         "score": null,
         "isWinner": false
       }
@@ -59,38 +59,6 @@
           "value": "73"
         }
       ],
-      "homeRuns": [
-        {
-          "rank": 1,
-          "name": "Aaron Nola",
-          "team": "",
-          "value": "37"
-        },
-        {
-          "rank": 2,
-          "name": "Shota Imanaga",
-          "team": "",
-          "value": "35"
-        },
-        {
-          "rank": 2,
-          "name": "Jeffrey Springs",
-          "team": "",
-          "value": "35"
-        },
-        {
-          "rank": 4,
-          "name": "Tomoyuki Sugano",
-          "team": "",
-          "value": "33"
-        },
-        {
-          "rank": 5,
-          "name": "Brady Singer",
-          "team": "",
-          "value": "32"
-        }
-      ],
       "battingAverage": [
         {
           "rank": 1,
@@ -121,6 +89,38 @@
           "name": "Nick Fortes",
           "team": "",
           "value": ".229"
+        }
+      ],
+      "homeRuns": [
+        {
+          "rank": 1,
+          "name": "Aaron Nola",
+          "team": "",
+          "value": "37"
+        },
+        {
+          "rank": 2,
+          "name": "Shota Imanaga",
+          "team": "",
+          "value": "35"
+        },
+        {
+          "rank": 2,
+          "name": "Jeffrey Springs",
+          "team": "",
+          "value": "35"
+        },
+        {
+          "rank": 4,
+          "name": "Tomoyuki Sugano",
+          "team": "",
+          "value": "33"
+        },
+        {
+          "rank": 5,
+          "name": "Brady Singer",
+          "team": "",
+          "value": "32"
         }
       ],
       "onBasePlusSlugging": [
