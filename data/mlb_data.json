@@ -1,29 +1,8 @@
 {
-  "fetchedAt": "2026-10-19T16:50:36.862231+00:00",
-  "date": "2026-10-19",
+  "fetchedAt": "2026-10-20T14:45:55.927817+00:00",
+  "date": "2026-10-20",
   "season": 2026,
-  "schedule": [
-    {
-      "gamePk": 849815,
-      "status": "Scheduled",
-      "statusCode": "Preview",
-      "startTime": "2026-10-20T00:08:00Z",
-      "inning": null,
-      "inningHalf": null,
-      "away": {
-        "name": "Cleveland Guardians",
-        "abbreviation": "CLE",
-        "score": null,
-        "isWinner": false
-      },
-      "home": {
-        "name": "Tampa Bay Rays",
-        "abbreviation": "TB",
-        "score": null,
-        "isWinner": false
-      }
-    }
-  ],
+  "schedule": [],
   "standings": [],
   "leaders": {
     "batting": {
@@ -59,38 +38,6 @@
           "value": "73"
         }
       ],
-      "battingAverage": [
-        {
-          "rank": 1,
-          "name": "William Contreras",
-          "team": "",
-          "value": ".218"
-        },
-        {
-          "rank": 2,
-          "name": "Hunter Feduccia",
-          "team": "",
-          "value": ".219"
-        },
-        {
-          "rank": 3,
-          "name": "Austin Wells",
-          "team": "",
-          "value": ".221"
-        },
-        {
-          "rank": 4,
-          "name": "Drake Baldwin",
-          "team": "",
-          "value": ".222"
-        },
-        {
-          "rank": 5,
-          "name": "Nick Fortes",
-          "team": "",
-          "value": ".229"
-        }
-      ],
       "homeRuns": [
         {
           "rank": 1,
@@ -121,6 +68,38 @@
           "name": "Brady Singer",
           "team": "",
           "value": "32"
+        }
+      ],
+      "battingAverage": [
+        {
+          "rank": 1,
+          "name": "William Contreras",
+          "team": "",
+          "value": ".218"
+        },
+        {
+          "rank": 2,
+          "name": "Hunter Feduccia",
+          "team": "",
+          "value": ".219"
+        },
+        {
+          "rank": 3,
+          "name": "Austin Wells",
+          "team": "",
+          "value": ".221"
+        },
+        {
+          "rank": 4,
+          "name": "Drake Baldwin",
+          "team": "",
+          "value": ".222"
+        },
+        {
+          "rank": 5,
+          "name": "Nick Fortes",
+          "team": "",
+          "value": ".229"
         }
       ],
       "onBasePlusSlugging": [
