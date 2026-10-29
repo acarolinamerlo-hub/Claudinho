@@ -1,29 +1,8 @@
 {
-  "fetchedAt": "2026-10-28T16:27:43.718700+00:00",
-  "date": "2026-10-28",
+  "fetchedAt": "2026-10-29T16:41:28.117786+00:00",
+  "date": "2026-10-29",
   "season": 2026,
-  "schedule": [
-    {
-      "gamePk": 849799,
-      "status": "Scheduled",
-      "statusCode": "Preview",
-      "startTime": "2026-10-29T00:00:00Z",
-      "inning": null,
-      "inningHalf": null,
-      "away": {
-        "name": "Milwaukee Brewers",
-        "abbreviation": "MIL",
-        "score": null,
-        "isWinner": false
-      },
-      "home": {
-        "name": "Tampa Bay Rays",
-        "abbreviation": "TB",
-        "score": null,
-        "isWinner": false
-      }
-    }
-  ],
+  "schedule": [],
   "standings": [],
   "leaders": {
     "batting": {
