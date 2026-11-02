@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-01T16:36:50.326284+00:00",
-  "date": "2026-11-01",
+  "fetchedAt": "2026-11-02T20:00:50.047520+00:00",
+  "date": "2026-11-02",
   "season": 2026,
   "schedule": [],
   "standings": [],
@@ -38,38 +38,6 @@
           "value": "73"
         }
       ],
-      "battingAverage": [
-        {
-          "rank": 1,
-          "name": "William Contreras",
-          "team": "",
-          "value": ".218"
-        },
-        {
-          "rank": 2,
-          "name": "Hunter Feduccia",
-          "team": "",
-          "value": ".219"
-        },
-        {
-          "rank": 3,
-          "name": "Austin Wells",
-          "team": "",
-          "value": ".221"
-        },
-        {
-          "rank": 4,
-          "name": "Drake Baldwin",
-          "team": "",
-          "value": ".222"
-        },
-        {
-          "rank": 5,
-          "name": "Nick Fortes",
-          "team": "",
-          "value": ".229"
-        }
-      ],
       "homeRuns": [
         {
           "rank": 1,
@@ -100,6 +68,38 @@
           "name": "Brady Singer",
           "team": "",
           "value": "32"
+        }
+      ],
+      "battingAverage": [
+        {
+          "rank": 1,
+          "name": "William Contreras",
+          "team": "",
+          "value": ".218"
+        },
+        {
+          "rank": 2,
+          "name": "Hunter Feduccia",
+          "team": "",
+          "value": ".219"
+        },
+        {
+          "rank": 3,
+          "name": "Austin Wells",
+          "team": "",
+          "value": ".221"
+        },
+        {
+          "rank": 4,
+          "name": "Drake Baldwin",
+          "team": "",
+          "value": ".222"
+        },
+        {
+          "rank": 5,
+          "name": "Nick Fortes",
+          "team": "",
+          "value": ".229"
         }
       ],
       "onBasePlusSlugging": [
